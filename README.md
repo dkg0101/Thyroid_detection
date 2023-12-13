@@ -1,4 +1,4 @@
-# Tite : Detection of thyroid disease using machine learning techniques
+# Title : Detection of thyroid disease using machine learning techniques
 
 The thyroid is a butterfly-shaped gland located in front of the neck. It produces hormones that
 play a key role in regulating blood pressure, body temperature, heart rate, metabolism, and the
